@@ -11,12 +11,8 @@ This project utilizes Convolutional Neural Networks (CNNs), specifically VGG16 a
   - [Facial Expression Recognition with Improved VGG CNN](#facial-expression-recognition-with-improved-vgg-cnn)
   - [Multi-Scale Dynamic Graph Learning for Brain Disorder Detection](#multi-scale-dynamic-graph-learning-for-brain-disorder-detection)
   - [Evaluating EEG and Eye Movements for ASD](#evaluating-eeg-and-eye-movements-for-asd)
-- [Repository Structure](#repository-structure)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -46,5 +42,8 @@ This interdisciplinary approach combines EEG and eye movement analyses to gain i
 
 ### Results
 The VGG16 model achieved an accuracy of approximately 86.33%, while the VGG19 model achieved an accuracy of 86.0% in detecting ASD from facial images.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 
