@@ -44,20 +44,7 @@ Functional MRI provides insights into brain activity and connectivity. The "Mult
 
 This interdisciplinary approach combines EEG and eye movement analyses to gain insights into the neurobiological and behavioral aspects associated with ASD. Integrating these modalities allows for a comprehensive understanding of the neurobehavioral characteristics associated with ASD.
 
-## Repository Structure
+### Results
+The VGG16 model achieved an accuracy of approximately 86.33%, while the VGG19 model achieved an accuracy of 86.0% in detecting ASD from facial images.
 
-- `data/`: Contains raw and processed data.
-- `notebooks/`: Jupyter notebooks for data exploration and analysis.
-- `src/`: Source code for data preprocessing, model definition, training, and evaluation.
-- `models/`: Directory for saving trained models.
-- `docs/`: Project documentation and reports.
-- `tests/`: Unit tests for the project's codebase.
 
-## Installation
-
-To get started, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/yourusername/ASD-Facial-Image-Detection.git
-cd ASD-Facial-Image-Detection
-pip install -r requirements.txt
